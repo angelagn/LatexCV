@@ -1,7 +1,7 @@
-PWD /home/angela/LatexCV/LatexCV
+PWD /home/angela/Documentos/Todos/TramitesAngela/LatexCV
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/angela/LatexCV/LatexCV/cv_4.tex
+INPUT /home/angela/Documentos/Todos/TramitesAngela/LatexCV/cv_4.tex
 OUTPUT cv_4.log
 INPUT ./resume.cls
 INPUT ./resume.cls

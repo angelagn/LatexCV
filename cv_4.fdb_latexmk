@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1694603597 "/home/angela/LatexCV/LatexCV/cv_4.tex" "cv_4.pdf" "cv_4" 1694603597 0
-  "/home/angela/LatexCV/LatexCV/cv_4.tex" 1694603596 5140 9f1b6442733e18117986181ab2f1d302 ""
+["pdflatex"] 1701770200 "/home/angela/Documentos/Todos/TramitesAngela/LatexCV/cv_4.tex" "cv_4.pdf" "cv_4" 1701770201 0
+  "/home/angela/Documentos/Todos/TramitesAngela/LatexCV/cv_4.tex" 1701770200 5140 6b38e42969bd033107d15dc6c9d56785 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1689853683 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1689853683 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1689853683 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -77,12 +77,12 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1689853683 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1694603552 4483110 adb1e1d04498b9576f1f17c4219c5e03 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1694603530 6768050 cafe6400840c712e1925e6fe877a1716 ""
-  "cv_4.aux" 1694603597 554 e6f85c6f44bbe194532b4fa1fd8ca02c "pdflatex"
-  "cv_4.out" 1694603597 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv_4.tex" 1694603596 5140 9f1b6442733e18117986181ab2f1d302 ""
-  "photo4.jpg" 1694602385 103060 ef922b8e74719bf6cf32679f6c123b3a ""
-  "resume.cls" 1694602385 4800 7d0890dd8b770ce0426136049ebec6c1 ""
-  "wordcloud4.jpg" 1694602385 99267 0f3b1ae402f4c4bd86e94a314122e452 ""
+  "cv_4.aux" 1701770201 554 e6f85c6f44bbe194532b4fa1fd8ca02c "pdflatex"
+  "cv_4.out" 1701770200 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv_4.tex" 1701770200 5140 6b38e42969bd033107d15dc6c9d56785 ""
+  "photo4.jpg" 1701769846 103060 ef922b8e74719bf6cf32679f6c123b3a ""
+  "resume.cls" 1701769846 4800 7d0890dd8b770ce0426136049ebec6c1 ""
+  "wordcloud4.jpg" 1701769846 99267 0f3b1ae402f4c4bd86e94a314122e452 ""
   (generated)
   "cv_4.aux"
   "cv_4.log"

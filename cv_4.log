@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.13)  13 SEP 2023 13:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.13)  5 DEC 2023 10:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/angela/LatexCV/LatexCV/cv_4.tex
-(/home/angela/LatexCV/LatexCV/cv_4.tex
+**/home/angela/Documentos/Todos/TramitesAngela/LatexCV/cv_4.tex
+(/home/angela/Documentos/Todos/TramitesAngela/LatexCV/cv_4.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
@@ -371,12 +371,12 @@ Package rerunfilecheck Info: File `cv_4.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  9743 strings out of 477985
- 151464 string characters out of 5840058
+ 151536 string characters out of 5840058
  1861388 words of memory out of 5000000
  29831 multiletter control sequences out of 15000+600000
  516774 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,7n,76p,605b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,7n,76p,629b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on cv_4.pdf (1 page, 288437 bytes).
 PDF statistics:
